@@ -11,13 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * <p>
- * GEMALTO s.r.o., Prague, ICS <br/>
- * StoredUser: Petr Hunka #petr.hunka@gemalto.com <br/>
- * Date: 11/18/13 <br/>
- * Time: 1:37 PM
- * <p/>
- *
+ * Petr Hunka (MiX-CZ)
  */
 @Singleton
 @Lock(LockType.READ)

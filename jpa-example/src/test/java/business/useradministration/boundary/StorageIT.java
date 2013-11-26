@@ -21,13 +21,7 @@ import static org.hamcrest.CoreMatchers.instanceOf;
 import static org.hamcrest.CoreMatchers.is;
 
 /**
- * <p>
- * GEMALTO s.r.o., Prague, ICS <br/>
- * StoredUser: Petr Hunka #petr.hunka@gemalto.com <br/>
- * Date: 11/18/13 <br/>
- * Time: 1:37 PM
- * <p/>
- *
+ * Petr Hunka (MiX-CZ)
  */
 @RunWith(Arquillian.class)
 public class StorageIT {

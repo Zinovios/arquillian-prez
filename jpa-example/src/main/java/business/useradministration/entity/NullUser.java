@@ -1,12 +1,8 @@
 package business.useradministration.entity;
 
 /**
- * <p>
- * GEMALTO s.r.o., Prague, ICS <br/>
- * StoredUser: Petr Hunka #petr.hunka@gemalto.com <br/>
- * Date: 11/18/13 <br/>
- * Time: 1:37 PM
- * <p/>
+ * Petr Hunka (MiX-CZ)
+ *
  *
  * Implementation of User interface (NullObject pattern). This class should be utilized as
  * return value instead of null.

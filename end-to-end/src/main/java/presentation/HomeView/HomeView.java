@@ -8,12 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * <p>
- * GEMALTO s.r.o., Prague, ICS <br/>
- * User: Petr Hunka #petr.hunka@gemalto.com <br/>
- * Date: 11/22/13 <br/>
- * Time: 4:29 PM <br/>
- * </p>
+ * Petr Hunka (MiX-CZ)
  */
 public class HomeView extends VerticalLayout implements View {
     private List<HomeViewHandler> handlers;

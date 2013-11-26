@@ -6,10 +6,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 /**
- * GEMALTO s.r.o., Prague, ICS
- * StoredUser: Petr Hunka #petr.hunka@gemalto.com
- * Date: 11/14/13
- * Time: 4:15 PM
+ * Petr Hunka (MiX-CZ)
  */
 @Entity
 @NamedQueries({

@@ -1,6 +1,5 @@
-package useradministration.boundary;
+package business.useradministration.boundary;
 
-import business.useradministration.boundary.UserStorage;
 import business.useradministration.control.DBUserRepository;
 import business.useradministration.control.UserRepository;
 import business.useradministration.entity.NullUser;
@@ -22,12 +21,7 @@ import static org.hamcrest.CoreMatchers.instanceOf;
 import static org.hamcrest.CoreMatchers.is;
 
 /**
- * <p>
- * GEMALTO s.r.o., Prague, ICS <br/>
- * User: Petr Hunka #petr.hunka@gemalto.com <br/>
- * Date: 11/22/13 <br/>
- * Time: 4:29 PM <br/>
- * </p>
+ * Petr Hunka (MiX-CZ)
  */
 @RunWith(Arquillian.class)
 public class StorageIT {

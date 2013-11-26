@@ -7,12 +7,8 @@ import javax.inject.Inject;
 import javax.inject.Singleton;
 
 /**
- * <p>
- * GEMALTO s.r.o., Prague, ICS <br/>
- * User: Petr Hunka #petr.hunka@gemalto.com <br/>
- * Date: 11/22/13 <br/>
- * Time: 4:29 PM <br/>
- * </p>
+ * Petr Hunka (MiX-CZ)
+ *
  *
  * Responsible for injecting EJB services into specific view presenter.
  * Reference on this Provider is passed via UI constructor and implementation

@@ -1,6 +1,5 @@
-package useradministration.control;
+package business.useradministration.control;
 
-import business.useradministration.control.UserRepository;
 import business.useradministration.entity.NullUser;
 import business.useradministration.entity.User;
 
